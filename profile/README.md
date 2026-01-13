@@ -28,7 +28,7 @@ Eli Sells ([@etsells](https://github.com/ETSells)) - Avionics Lead and Avionics 
 
 David Ortloff ([@dmortloff](https://github.com/dmortloff)) - Avionics Hardware Lead
 
-Nick Nguyen ([@niekky](https://github.com/niekky)) - Avionics Lead (Emeritus) & Project Lead: COTS
+Nick Nguyen ([@niekky](https://github.com/niekky)) - Avionics Lead (Emeritus) & Avionics Liquids Lead
 
 Journey Hancock ([@journeyhancock](https://github.com/journeyhancock)) - Project Lead: SDEC, SDECv2, SDEC-API
 
