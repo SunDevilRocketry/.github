@@ -28,8 +28,8 @@ Eli Sells ([@etsells](https://github.com/ETSells)) - Avionics Lead and Avionics 
 
 David Ortloff ([@dmortloff](https://github.com/dmortloff)) - Avionics Hardware Lead
 
-Nick Nguyen ([@niekky](https://github.com/niekky)) - Avionics Lead (Emeritus) & Avionics Liquids Lead
+Nick Nguyen ([@niekky](https://github.com/niekky)) - Avionics Lead (Emeritus) & Team Lead: Liquids
 
-Journey Hancock ([@journeyhancock](https://github.com/journeyhancock)) - Project Lead: SDEC, SDECv2, SDEC-API
+Journey Hancock ([@journeyhancock](https://github.com/journeyhancock)) - Team Lead: SDECv2
 
-Xavier Flores ([@xeflore1](https://github.com/xeflore1)) - Project Lead: Flight Dashboard GUI
+Xavier Flores ([@xeflore1](https://github.com/xeflore1)) - Team Lead: Flight Dashboard GUI
