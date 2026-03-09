@@ -33,3 +33,10 @@ Nick Nguyen ([@niekky](https://github.com/niekky)) - Avionics Lead (Emeritus) & 
 Journey Hancock ([@journeyhancock](https://github.com/journeyhancock)) - Team Lead: SDECv2
 
 Xavier Flores ([@xeflore1](https://github.com/xeflore1)) - Team Lead: Flight Dashboard GUI
+
+### Incoming Leadership Team (2026-27)
+Eli Sells ([@etsells](https://github.com/ETSells)) - Avionics Lead and Avionics Firmware Lead
+
+David Ortloff ([@dmortloff](https://github.com/dmortloff)) - Avionics Hardware Lead
+
+Fernando Villatoro ([@favillat](https://github.com/favillat)) - Avionics Software Lead
