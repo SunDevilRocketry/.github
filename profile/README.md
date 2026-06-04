@@ -21,6 +21,8 @@ The software division is responsible for SDR's newest projects. They are current
 ## How do I reach out?
 If you're an ASU student interested in working with the club, you can find more information on [Sun Devil Central](https://sundevilcentral.eoss.asu.edu/SDRocketry/club_signup). If you're an organization or individual interested in sponsoring or learning more about the club, you can reach us at rocketry.asu@gmail.com.
 
+We do not currently accept contributions from outside the university.
+
 Once you're in, contact the avionics team on Slack (`#avionics`).
 
 ### Officer Team (2026-27)
