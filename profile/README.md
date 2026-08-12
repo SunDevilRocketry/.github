@@ -37,10 +37,6 @@ Aaron Tsang ([@fallencoffee](https://github.com/FallenCoffee)) - Hardware: Liqui
 
 Nicholas Armistead ([@narmistead](https://github.com/NArmistead)) - Firmware: Flight Computer Rev. 2 Project Lead
 
-Robert Camacho ([@butchhartman](https://github.com/ButchHartman)) - Firmware: Flight Computer Emulator Project Lead
-
 Drew Stephens ([@266-750Balloons](https://github.com/266-750Balloons)) - Firmware: Ground Station & LoRa Testbed Project Lead
 
-Leo Meza ([@Ljmeza95](https://github.com/Ljmeza95)) - Software: SDEC Co-Project Lead
-
-Ethan Combe ([@ecombe123](https://github.com/ecombe123)) - Software: SDEC Co-Project Lead
+Isahi Soria ([@MasterUser43](https://github.com/MasterUser43)) - Software: LQD-DAQ Project Lead
