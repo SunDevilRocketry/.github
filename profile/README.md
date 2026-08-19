@@ -42,4 +42,4 @@ Drew Stephens ([@266-750Balloons](https://github.com/266-750Balloons)) - Firmwar
 Isahi Soria ([@MasterUser43](https://github.com/MasterUser43)) - Software: LQD-DAQ Project Lead
 
 ### Other POCs
-Allison Cheon ([@acheon307](https://github.com/acheon307)] - Project Manager: Liquids
+Allison Cheon ([@acheon307)(https://github.com/acheon307)] - Project Manager: Liquids
