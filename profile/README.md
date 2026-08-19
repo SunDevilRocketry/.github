@@ -26,7 +26,9 @@ We do not currently accept contributions from outside the university.
 Once you're in, contact the avionics team on Slack (`#avionics`).
 
 ### Officer Team (2026-27)
-Eli Sells ([@etsells](https://github.com/ETSells)) - Avionics Lead and Avionics Firmware Lead
+Eli Sells ([@etsells](https://github.com/ETSells)) - Avionics Lead
+
+Nicholas Armistead ([@narmistead](https://github.com/NArmistead)) - Avionics Firmware Lead
 
 David Ortloff ([@dmortloff](https://github.com/dmortloff)) - Avionics Hardware Lead
 
@@ -34,8 +36,6 @@ Fernando Villatoro ([@favillat](https://github.com/favillat)) - Avionics Softwar
 
 ### Project Leads/Technical Leads
 Aaron Tsang ([@fallencoffee](https://github.com/FallenCoffee)) - Hardware: Liquids Project Lead
-
-Nicholas Armistead ([@narmistead](https://github.com/NArmistead)) - Firmware: Flight Computer Rev. 2 Project Lead
 
 Drew Stephens ([@266-750Balloons](https://github.com/266-750Balloons)) - Firmware: Ground Station & LoRa Testbed Project Lead
 
