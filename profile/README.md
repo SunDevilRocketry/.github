@@ -23,7 +23,7 @@ If you're an ASU student interested in working with the club, you can find more 
 
 We do not currently accept contributions from outside the university.
 
-Once you're in, contact the avionics team on Slack (`#avionics`).
+Once you're in, contact the avionics team on Discord (`#avionics`).
 
 ### Officer Team (2026-27)
 Eli Sells ([@etsells](https://github.com/ETSells)) - Avionics Lead
