@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://sundevilrocketry.github.io">
+  <a href="https://sundevilrocketry.org">
     <img width="550" height="440" src="https://user-images.githubusercontent.com/13630061/212499223-b09d9515-3ac8-4796-8298-e47b7fd720be.png" />
   </a>
 </p>
@@ -43,3 +43,8 @@ Isahi Soria ([@MasterUser43](https://github.com/MasterUser43)) - Software: LQD-D
 
 ### Other POCs
 Allison Cheon ([@acheon307](https://github.com/acheon307)) - Project Manager: Liquids
+
+### Useful Sites
+
+- [sundevilrocketry.org](sundevilrocketry.org) - General website for SDR
+- [docs.sundevilrocketry.org](docs.sundevilrocketry.org) - Technical documentation, mostly for Avionics
