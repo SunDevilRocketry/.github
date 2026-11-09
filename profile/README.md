@@ -46,5 +46,5 @@ Allison Cheon ([@acheon307](https://github.com/acheon307)) - Project Manager: Li
 
 ### Useful Sites
 
-- [sundevilrocketry.org](sundevilrocketry.org) - General website for SDR
-- [docs.sundevilrocketry.org](docs.sundevilrocketry.org) - Technical documentation, mostly for Avionics
+- [sundevilrocketry.org](https://sundevilrocketry.org) - General website for SDR
+- [docs.sundevilrocketry.org](https://docs.sundevilrocketry.org) - Technical documentation, mostly for Avionics
